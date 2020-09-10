@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on: Building my own language in python
-- 🌱 I’m currently learning: C/C#
+- 🌱 I’m currently learning: Java
 - 👯 I’m looking to collaborate on: Nothing Right Now
 - 🤔 I’m looking for help with: Nothing Right Now
 - 💬 Ask me about: Python, Marvel, Star Wars
