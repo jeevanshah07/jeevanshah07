@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on: An AI Chat-bot (using PyTorch)
+- 🔭 I’m currently working on: A password manager using python and mysql
 - 🌱 I’m currently learning: Java
 - 👯 I’m looking to collaborate on: Nothing Right Now
 - 🤔 I’m looking for help with: PyTorch and Java
