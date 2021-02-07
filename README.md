@@ -1,5 +1,5 @@
-[![Marvelman3284's github stats](https://github-readme-stats.vercel.app/api?username=marvelman3284)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marvelman3284&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+![Marvelman3284 GitHub stats](https://github-readme-stats.vercel.app/api?username=marvelman3284&show_icons=true&theme=onedark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marvelman3284)](https://github.com/anuraghazra/github-readme-stats)
 ### Hi there 👋
 
 - 🔭 I’m currently working on: A password manager using python and mysql
