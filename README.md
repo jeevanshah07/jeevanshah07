@@ -5,7 +5,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marvelman3284&repo=Python-Password-Manager&theme=gotham" />
 </a>
 <a href="https://github.com/marvelman3284/Python-Password-Manager">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marvelman3284&repo=Python-Password-Manager&theme=gotham" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marvelman3284&repo=AI-Chat-Bot&theme=gotham" />
 </a>
 
 ### Hi there 👋
