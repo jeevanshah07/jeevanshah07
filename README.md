@@ -2,7 +2,7 @@
 <a href="https://github.com/marvelman3284/Python-Password-Manager">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marvelman3284&repo=Python-Password-Manager" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/marvelman3284/Python-Password-Manager">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
 ### Hi there 👋
