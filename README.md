@@ -1,4 +1,5 @@
 ![Marvelman3284 GitHub stats](https://github-readme-stats.vercel.app/api?username=marvelman3284&show_icons=true&theme=nord)
+[![Marvelman3284's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marvelman3284)](https://github.com/anuraghazra/github-readme-stats)
 ### Hi there 👋
 
 - 🔭 I’m currently working on: A password manager using python and mysql
