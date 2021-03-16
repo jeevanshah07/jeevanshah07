@@ -1,4 +1,10 @@
 ![Marvelman3284 GitHub stats](https://github-readme-stats.vercel.app/api?username=marvelman3284&show_icons=true&theme=blue-green)
+<a href="https://github.com/marvelman3284/Python-Password-Manager">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marvelman3284&repo=Python-Password-Manager" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 ### Hi there 👋
 
 - 🔭 I’m currently working on: A password manager using python and mysql
