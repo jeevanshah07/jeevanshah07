@@ -15,6 +15,10 @@
 
 - ⚡ Fun fact **I have been programming since the 7th grade.**
 
+## This week I spent my time with:
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/marvelman3284" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="marvelman3284" height="30" width="40" /></a>
