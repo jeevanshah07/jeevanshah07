@@ -15,9 +15,15 @@
 
 - ⚡ Fun fact **I have been programming since the 7th grade.**
 
-## This week I spent my time with:
+## This week I spent my time:
+
+### Coding
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=marvelman3284&hide_title=true&hide_border=true&langs_count=5)
 
+### And Contributing
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
