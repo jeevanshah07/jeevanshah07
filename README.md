@@ -16,7 +16,6 @@
 - ⚡ Fun fact **I have been programming since the 7th grade.**
 
 ## This week I spent my time:
-![wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=marvelman3284&hide_border=true&langs_count=5)
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
