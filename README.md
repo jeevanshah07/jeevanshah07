@@ -21,9 +21,9 @@
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=marvelman3284&hide_title=true&hide_border=true&langs_count=5)
 
 ### And Contributing
-<!--START_SECTION:activity-->
+<!--START_SECTION:waka-->
 
-<!--END_SECTION:activity-->
+<!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
