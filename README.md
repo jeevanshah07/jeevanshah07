@@ -18,7 +18,7 @@
 ## This week I spent my time:
 
 ### Coding
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Jeevan Shah&hide_title=true&hide_border=true&langs_count=5)
+![wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=marvelman3284&hide_border=true&langs_count=5)
 
 ### And Contributing
 <!--START_SECTION:waka-->
