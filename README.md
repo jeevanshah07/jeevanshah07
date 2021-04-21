@@ -16,11 +16,8 @@
 - ⚡ Fun fact **I have been programming since the 7th grade.**
 
 ## This week I spent my time:
-
-### Coding
 ![wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=marvelman3284&hide_border=true&langs_count=5)
 
-### And Contributing
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
