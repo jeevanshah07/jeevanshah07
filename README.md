@@ -19,7 +19,9 @@
 ![wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=marvelman3284&hide_border=true&langs_count=5)
 
 <!--START_SECTION:waka-->
-
+```text
+Python       16 mins         ████████████████████████▓   98.14 % 
+```
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
