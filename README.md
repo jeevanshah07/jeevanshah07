@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jeevan Shah</h1>
 <h3 align="center">A Student With A Love For Programming</h3>
 
-<script src="https://gist.github.com/marvelman3284/1d5770addd68d96a349daa8496b4ee71.js"></script>
-
 - 🔭 I’m currently working on [A Password Manager Using Python](https://github.com/marvelman3284/Python-Password-Manager)
 
 - 🌱 I’m currently learning **Flask and Kotlin**
@@ -103,7 +101,6 @@ Pug                      1 repo              █░░░░░░░░░░�
 
 <h3 align="left">I also enjoy music:</h3>
 
-<script src="https://gist.github.com/marvelman3284/1d5770addd68d96a349daa8496b4ee71.js"></script>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marvelman3284&show_icons=true&locale=en&theme=blue-green" alt="marvelman3284" /></p>
 
