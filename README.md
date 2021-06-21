@@ -24,7 +24,7 @@
 
 > 🏆 320 Contributions in the Year 2021
  > 
-> 📦 113.2 kB Used in Github's Storage 
+> 📦 113.3 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -61,16 +61,16 @@ Sunday       26 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-YAML                     10 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Vim                      10 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          10 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    10 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -87,7 +87,7 @@ Pug                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/06/2021
+ Last Updated on 21/06/2021
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
