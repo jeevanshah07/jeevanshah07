@@ -24,7 +24,7 @@
 
 > 🏆 324 Contributions in the Year 2021
  > 
-> 📦 113.3 kB Used in Github's Storage 
+> 📦 113.1 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -87,7 +87,7 @@ Pug                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/07/2021
+ Last Updated on 13/07/2021
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
