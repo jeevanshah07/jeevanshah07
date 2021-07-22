@@ -61,18 +61,16 @@ Sunday       26 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    1 min               █████████████████████████   100.0% 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-fs_calc                  1 min               █████████████████████████   100.0% 
-personal_mysql           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -89,7 +87,7 @@ Pug                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/07/2021
+ Last Updated on 22/07/2021
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
