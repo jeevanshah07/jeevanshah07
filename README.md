@@ -61,16 +61,17 @@ Sunday       26 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Text                     7 mins              ██████████████████████░░░   91.16% 
+YAML                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   8.84%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  7 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          7 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  7 mins              █████████████████████████   100.0%
 
 ```
 
@@ -87,7 +88,7 @@ Pug                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/08/2021
+ Last Updated on 19/08/2021
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
