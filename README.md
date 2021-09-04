@@ -18,7 +18,7 @@
 ## This week I spent my time:
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My Github Data** 
 
@@ -87,7 +87,7 @@ Pug                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/09/2021
+ Last Updated on 04/09/2021
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
