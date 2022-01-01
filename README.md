@@ -22,7 +22,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 461 Contributions in the Year 2021
+> 🏆 0 Contributions in the Year 2022
  > 
 > 📦 114.2 kB Used in GitHub's Storage 
  > 
@@ -61,17 +61,16 @@ Sunday       25 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   28 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   28 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-marvel                   14 mins             █████████████░░░░░░░░░░░░   51.64% 
-kathy                    13 mins             ████████████░░░░░░░░░░░░░   48.36%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    28 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -88,7 +87,7 @@ Pug                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2021
+ Last Updated on 01/01/2022
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
