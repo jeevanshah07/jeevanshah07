@@ -63,17 +63,16 @@ Sunday       20 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Bash                     14 mins             ███████████████░░░░░░░░░░   62.37% 
-Text                     8 mins              █████████░░░░░░░░░░░░░░░░   37.63%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   22 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          22 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    22 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -90,7 +89,7 @@ Pug                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2022 00:44:51 UTC
+ Last Updated on 28/07/2022 00:41:17 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
