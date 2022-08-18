@@ -18,7 +18,7 @@
 ## This week I spent my time:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-232%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-95%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -89,7 +89,7 @@ Pug                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/08/2022 00:48:50 UTC
+ Last Updated on 18/08/2022 00:45:08 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
