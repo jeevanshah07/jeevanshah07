@@ -63,17 +63,16 @@ Sunday       16 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   49 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   49 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-ia                       49 mins             ████████████████████████░   99.39% 
-trig                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.61%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    49 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -90,7 +89,7 @@ Pug                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/12/2022 00:36:57 UTC
+ Last Updated on 31/12/2022 00:35:03 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
