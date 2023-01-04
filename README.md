@@ -26,7 +26,7 @@
 
 > 🏆 0 Contributions in the Year 2023
  > 
-> 📦 25.5 kB Used in GitHub's Storage 
+> 📦 25.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -34,6 +34,48 @@
  > 
 > 🔑 7 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    87 commits     ████████░░░░░░░░░░░░░░░░░   33.08% 
+🌆 Daytime    84 commits     ████████░░░░░░░░░░░░░░░░░   31.94% 
+🌃 Evening    84 commits     ████████░░░░░░░░░░░░░░░░░   31.94% 
+🌙 Night      8 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.04%
+
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       59 commits     █████░░░░░░░░░░░░░░░░░░░░   22.43% 
+Tuesday      64 commits     ██████░░░░░░░░░░░░░░░░░░░   24.33% 
+Wednesday    40 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.21% 
+Thursday     45 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.11% 
+Friday       27 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.27% 
+Saturday     12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.56% 
+Sunday       16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.08%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -47,7 +89,7 @@ Pug                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/01/2023 00:35:45 UTC
+ Last Updated on 04/01/2023 00:35:25 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
