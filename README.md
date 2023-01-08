@@ -18,7 +18,7 @@
 ## This week I spent my time:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-309%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-310%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -26,7 +26,7 @@
 
 > 🏆 0 Contributions in the Year 2023
  > 
-> 📦 25.6 kB Used in GitHub's Storage 
+> 📦 27.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -63,17 +63,17 @@ Sunday       16 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   1 hr 59 mins        ███████████████████████░░   94.74% 
-Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.26%
+Python                   2 hrs 10 mins       ██████████████████████░░░   88.24% 
+Other                    17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.76%
 
 🔥 Editors: 
-Neovim                   2 hrs 6 mins        █████████████████████████   100.0%
+Neovim                   2 hrs 28 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-ia                       2 hrs 6 mins        █████████████████████████   100.0%
+ia                       2 hrs 28 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    2 hrs 6 mins        █████████████████████████   100.0%
+Linux                    2 hrs 28 mins       █████████████████████████   100.0%
 
 ```
 
@@ -90,7 +90,7 @@ Pug                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/01/2023 00:35:38 UTC
+ Last Updated on 08/01/2023 00:39:02 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
