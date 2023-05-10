@@ -1,20 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jeevan Shah</h1>
 <h3 align="center">A Student With A Love For Programming</h3>
 
-- 🔭 I’m currently working on [A Password Manager Using Python](https://github.com/marvelman3284/Python-Password-Manager)
-
-- 🌱 I’m currently learning **Flask and Kotlin**
-
-- 👯 I’m looking to collaborate on [My Password Manager](https://github.com/marvelman3284/Python-Password-Manager)
-
-- 🤝 I’m looking for help with [My Password Manager!](https://github.com/marvelman3284/Python-Password-Manager)
-
-- 💬 Ask me about **Python, Linux, and Computers**
-
-- 📫 How to reach me **jeevandshah@gmail.com, Marvelman3284#6554 on Discord**
-
-- ⚡ Fun fact **I have been programming since the 7th grade.**
-
 ## This week I spent my time:
 
 <!--START_SECTION:waka-->
