@@ -47,18 +47,16 @@ Sunday                   137 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   16 mins             ███████████████████░░░░░░   74.91 % 
-Other                    5 mins              ██████░░░░░░░░░░░░░░░░░░░   25.09 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   22 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-mrLowry                  16 mins             ███████████████████░░░░░░   74.91 % 
-Unknown Project          5 mins              ██████░░░░░░░░░░░░░░░░░░░   25.09 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    22 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -74,7 +72,7 @@ Nim                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/06/2023 00:42:44 UTC
+ Last Updated on 14/06/2023 00:39:00 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
