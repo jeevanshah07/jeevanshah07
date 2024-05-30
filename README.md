@@ -4,15 +4,13 @@
 ## This week I spent my time:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-509%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-509%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 61.8 kB Used in GitHub's Storage 
- > 
-> 🏆 270 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -81,7 +79,7 @@ TeX                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 29/05/2024 00:38:28 UTC
+ Last Updated on 30/05/2024 00:36:27 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
