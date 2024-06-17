@@ -4,6 +4,8 @@
 ## This week I spent my time:
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-512%20hrs%2033%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -45,16 +47,17 @@ Sunday                   314 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+desktop                  3 mins              ███████████████░░░░░░░░░░   61.72 % 
+Other                    1 min               ██████████░░░░░░░░░░░░░░░   38.28 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   5 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          5 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    5 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -70,7 +73,7 @@ TeX                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/06/2024 00:40:49 UTC
+ Last Updated on 17/06/2024 00:39:21 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
