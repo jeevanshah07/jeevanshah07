@@ -47,18 +47,16 @@ Sunday                   314 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TeX                      38 mins             ████████████████████████░   96.88 % 
-Lua                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   39 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-math                     38 mins             ████████████████████████░   96.88 % 
-Unknown Project          1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    39 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -74,7 +72,7 @@ TypeScript               4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 18/08/2024 00:42:50 UTC
+ Last Updated on 19/08/2024 00:41:12 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
