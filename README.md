@@ -47,19 +47,16 @@ Sunday                   318 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Dart                     49 mins             ██████████████████░░░░░░░   72.01 % 
-Groovy                   16 mins             ██████░░░░░░░░░░░░░░░░░░░   23.59 % 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
-Todotxt                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 9 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-mobile                   1 hr 9 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 9 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -75,7 +72,7 @@ TeX                      4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 26/11/2024 00:47:44 UTC
+ Last Updated on 27/11/2024 00:48:13 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
