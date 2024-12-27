@@ -12,7 +12,7 @@
 
 > 📦 65.3 kB Used in GitHub's Storage 
  > 
-> 🏆 383 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -72,7 +72,7 @@ TeX                      4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 26/12/2024 00:45:10 UTC
+ Last Updated on 27/12/2024 00:45:15 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
