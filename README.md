@@ -12,6 +12,8 @@
 
 > 📦 65.3 kB Used in GitHub's Storage 
  > 
+> 🏆 0 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 85 Public Repositories 
@@ -45,17 +47,16 @@ Sunday                   318 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    2 mins              ████████████████████████░   94.87 % 
-Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Pre-Calc                 2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -71,7 +72,7 @@ TeX                      4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 08/01/2025 00:45:40 UTC
+ Last Updated on 09/01/2025 00:45:38 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
