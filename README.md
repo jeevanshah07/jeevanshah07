@@ -12,6 +12,8 @@
 
 > 📦 67.9 kB Used in GitHub's Storage 
  > 
+> 🏆 10 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 88 Public Repositories 
@@ -70,7 +72,7 @@ TeX                      4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/03/2025 00:47:11 UTC
+ Last Updated on 07/03/2025 00:47:39 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
