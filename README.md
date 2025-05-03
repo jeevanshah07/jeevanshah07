@@ -4,15 +4,13 @@
 ## This week I spent my time:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-584%20hrs%2045%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 68.0 kB Used in GitHub's Storage 
  > 
-> 🏆 13 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -72,7 +70,7 @@ TypeScript               5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/05/2025 00:52:17 UTC
+ Last Updated on 03/05/2025 00:50:43 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
