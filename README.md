@@ -12,8 +12,6 @@
 
 > 📦 68.2 kB Used in GitHub's Storage 
  > 
-> 🏆 17 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 88 Public Repositories 
@@ -72,7 +70,7 @@ TypeScript               5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/05/2025 00:54:55 UTC
+ Last Updated on 21/05/2025 00:54:09 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
