@@ -10,7 +10,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 69.1 kB Used in GitHub's Storage 
+> 📦 69.7 kB Used in GitHub's Storage 
  > 
 > 🏆 29 Contributions in the Year 2025
  > 
@@ -47,16 +47,17 @@ Sunday                   321 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TeX                      26 mins             █████████████░░░░░░░░░░░░   53.10 % 
+Python                   23 mins             ████████████░░░░░░░░░░░░░   46.90 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   50 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+textbook                 50 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      50 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -72,7 +73,7 @@ TeX                      5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/06/2025 00:53:56 UTC
+ Last Updated on 22/06/2025 01:00:04 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
