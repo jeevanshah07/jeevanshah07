@@ -47,17 +47,16 @@ Sunday                   345 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Bash                     8 mins              ██████████████░░░░░░░░░░░   55.57 % 
-Python                   6 mins              ███████████░░░░░░░░░░░░░░   44.43 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-amarel-interface         15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -73,7 +72,7 @@ HTML                     5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 30/12/2025 00:57:04 UTC
+ Last Updated on 31/12/2025 00:58:55 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
