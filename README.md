@@ -4,7 +4,9 @@
 ## This week I spent my time:
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-970%20hrs%2047%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -73,7 +75,7 @@ C                        1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/05/2026 02:12:24 UTC
+ Last Updated on 23/05/2026 02:00:23 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
