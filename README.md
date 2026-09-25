@@ -8,27 +8,18 @@ When I'm not writing code or studying Algebra/Field Theory I like to spend my da
 
 Reach me anytime at jeevandshah@gmail.com. 
 
-  ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-  ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
-  ![React.js](https://img.shields.io/badge/-React.js-000000?style=flat&logo=react)
-  ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-  ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=openjdk)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-  ![LaTeX](https://img.shields.io/badge/-LaTeX-000000?style=flat&logo=latex)
+<div align="center">
 
-<!--
-**maytakahashi/maytakahashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/jeevanshah07"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/GitHub-%40jeevanshah07-181717.svg?logo=github&amp;variant=branded&amp;size=sm&amp;mode=dark&amp;font=jetbrains-mono"><img alt="GitHub" src="https://www.shieldcn.dev/badge/GitHub-%40jeevanshah07-181717.svg?logo=github&amp;variant=branded&amp;size=sm&amp;mode=light&amp;font=jetbrains-mono"></picture></a> <a href="https://jeevanshah.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/Website-jeevanshah.dev-181717.svg?logo=ri%3ALuLink&amp;variant=branded&amp;size=sm&amp;mode=dark&amp;font=jetbrains-mono"><img alt="Website" src="https://www.shieldcn.dev/badge/Website-jeevanshah.dev-181717.svg?logo=ri%3ALuLink&amp;variant=branded&amp;size=sm&amp;mode=light&amp;font=jetbrains-mono"></picture></a>
 
-Here are some ideas to get you started:
+<a href="https://github.com/jeevanshah07?tab=followers"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/followers/jeevanshah07.svg?variant=secondary&amp;size=sm&amp;mode=dark&amp;font=jetbrains-mono"><img alt="GitHub Followers" src="https://www.shieldcn.dev/github/followers/jeevanshah07.svg?variant=secondary&amp;size=sm&amp;mode=light&amp;font=jetbrains-mono"></picture></a> <a href="https://github.com/jeevanshah07?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/user-stars/jeevanshah07.svg?variant=secondary&amp;size=sm&amp;mode=dark&amp;font=jetbrains-mono"><img alt="GitHub Stars" src="https://www.shieldcn.dev/github/user-stars/jeevanshah07.svg?variant=secondary&amp;size=sm&amp;mode=light&amp;font=jetbrains-mono"></picture></a> <a href="https://github.com/jeevanshah07?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/Repos-76-2563eb.svg?logo=github&amp;variant=secondary&amp;size=sm&amp;mode=dark&amp;font=jetbrains-mono"><img alt="Public Repos" src="https://www.shieldcn.dev/badge/Repos-76-2563eb.svg?logo=github&amp;variant=secondary&amp;size=sm&amp;mode=light&amp;font=jetbrains-mono"></picture></a> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/Location-New_Jersey%2C_USA-6366f1.svg?logo=googlemaps&amp;variant=ghost&amp;size=sm&amp;mode=dark&amp;font=jetbrains-mono"><img alt="Location" src="https://www.shieldcn.dev/badge/Location-New_Jersey%2C_USA-6366f1.svg?logo=googlemaps&amp;variant=ghost&amp;size=sm&amp;mode=light&amp;font=jetbrains-mono"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/Company-The_Honors_College_at_Rutgers--New_Brunswick-1f2937.svg?logo=building&amp;variant=ghost&amp;size=sm&amp;mode=dark&amp;font=jetbrains-mono"><img alt="Company" src="https://www.shieldcn.dev/badge/Company-The_Honors_College_at_Rutgers--New_Brunswick-1f2937.svg?logo=building&amp;variant=ghost&amp;size=sm&amp;mode=light&amp;font=jetbrains-mono"></picture>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+</div>
 
--->
+## 🛠️ Skills & Technologies
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Python-3776AB.svg?logo=python&amp;variant=branded&amp;size=sm&amp;mode=dark&amp;font=jetbrains-mono"><img alt="Python" src="https://www.shieldcn.dev/badge/-Python-3776AB.svg?logo=python&amp;variant=branded&amp;size=sm&amp;mode=light&amp;font=jetbrains-mono"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript&amp;variant=branded&amp;size=sm&amp;mode=dark&amp;font=jetbrains-mono"><img alt="TypeScript" src="https://www.shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript&amp;variant=branded&amp;size=sm&amp;mode=light&amp;font=jetbrains-mono"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Java-ED8B00.svg?logo=openjdk&amp;variant=branded&amp;size=sm&amp;mode=dark&amp;font=jetbrains-mono"><img alt="Java" src="https://www.shieldcn.dev/badge/-Java-ED8B00.svg?logo=openjdk&amp;variant=branded&amp;size=sm&amp;mode=light&amp;font=jetbrains-mono"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-C%2B%2B-00599C.svg?logo=cplusplus&amp;variant=branded&amp;size=sm&amp;mode=dark&amp;font=jetbrains-mono"><img alt="C++" src="https://www.shieldcn.dev/badge/-C%2B%2B-00599C.svg?logo=cplusplus&amp;variant=branded&amp;size=sm&amp;mode=light&amp;font=jetbrains-mono"></picture>
+
+---
+
+<sub>Badges generated with [shieldcn](https://shieldcn.dev/gen/profile)</sub>
